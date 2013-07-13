@@ -1,5 +1,5 @@
 var express = require('express');
-bar buffer = new Buffet();
+bar buffer = new Buffer();
 buffer = fs.readFile(index.html);
 var app = express.createServer(express.logger());
 
